@@ -1,7 +1,8 @@
+// Groups Rating - 1000 
+
 #include <iostream>
 #include <vector>
 using namespace std;
-using ll = long long;
 
 int main(){
     int t;
